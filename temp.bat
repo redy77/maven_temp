@@ -1,1 +1,1 @@
-ping yandex.ru
+ping google.com
